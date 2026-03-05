@@ -66,6 +66,6 @@ View the model, train, val and text in the [Jupyter Notebook here. (3-doctors-ha
 
 ## Presentation: Video & Powerpoint
 **Presentation Video** - [Daniel_Li_Capstone_Presentation_2026.mp4](./Daniel_Li_Capstone_Presentation_2026.mp4) \
-**Powerpoint Presentation Slides** - [DL - Capstone Project - Presentation.pdf](./DL-CapstoneProject-Presentation.pdf)
+**Powerpoint Presentation Slides** - [Capstone-Powerpoint-Presentation.pdf](./Capstone-Powerpoint-Presentation.pdf)
 ## Written Report
 **Written Report** - [Capstone-Project-Report.pdf](./Capstone-Project-Report.pdf)
