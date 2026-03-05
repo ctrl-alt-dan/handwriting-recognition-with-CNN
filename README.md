@@ -65,7 +65,7 @@ View the model, train, val and text in the [Jupyter Notebook here. (3-doctors-ha
 <img width="1131" height="513" alt="image" src="https://github.com/user-attachments/assets/6d5518ae-802a-4de1-9732-63293c5f43ac" />
 
 ## Presentation
-**Presentation Video** - <a href="https://youtu.be/4GUOo_ePfms" target="_blank" rel="noopener noreferrer">Daniel_Li_Capstone_Presentation_2026.mp4</a> \
+**Presentation Video** - [Capstone-Video-Presentation](https://youtu.be/4GUOo_ePfms) \
 **Powerpoint Presentation Slides** - [Capstone-Powerpoint-Presentation.pdf](./Capstone-Powerpoint-Presentation.pdf)
 ## Written Report
 **Written Report** - [Capstone-Written-Report.pdf](./Capstone-Written-Report.pdf)
